@@ -7,7 +7,7 @@
 
 
 #contenedor{
-    width: 90%;
+    width: 60%;
     margin: auto;
     display: grid;
     grid-template-rows: auto auto auto;
@@ -106,4 +106,5 @@ footer a i:hover{
 }
 .direc:hover{
     color: #afaaaa;
+
 }
